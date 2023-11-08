@@ -1,0 +1,14 @@
+C:\Users\isiko\source\repos\ReadtxtFile\bin\Debug\net6.0\ReadtxtFile.exe
+C:\Users\isiko\source\repos\ReadtxtFile\bin\Debug\net6.0\ReadtxtFile.deps.json
+C:\Users\isiko\source\repos\ReadtxtFile\bin\Debug\net6.0\ReadtxtFile.runtimeconfig.json
+C:\Users\isiko\source\repos\ReadtxtFile\bin\Debug\net6.0\ReadtxtFile.dll
+C:\Users\isiko\source\repos\ReadtxtFile\bin\Debug\net6.0\ReadtxtFile.pdb
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.AssemblyInfoInputs.cache
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.AssemblyInfo.cs
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.csproj.CoreCompileInputs.cache
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.dll
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\refint\ReadtxtFile.dll
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.pdb
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ReadtxtFile.genruntimeconfig.cache
+C:\Users\isiko\source\repos\ReadtxtFile\obj\Debug\net6.0\ref\ReadtxtFile.dll
